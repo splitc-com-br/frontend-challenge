@@ -9,6 +9,7 @@ Você pode escolher duas opções:
 
 ### Como submeto?
 Pode subir o código num repo próprio ou num fork deste aqui, só precisamos alguma maneira de ver o código que fez
+
 Se não for tranquilo commitar podemos fazer uma nova reunião para você compartilhar tela e vermos juntos
 
 ### Quanto tempo tenho?
